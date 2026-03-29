@@ -7,6 +7,4 @@ Hi, I'm Gleuber Cruz, a Full Stack Programmer, currently learning and creating p
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  alt="css-logo" />
 
 
-[![Gleuber Stats](https://github-readme-stats.vercel.app/api?username=gleubercruz)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gleubercruz)](https://github.com/anuraghazra/github-readme-stats)
